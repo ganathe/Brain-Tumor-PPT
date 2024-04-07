@@ -1,2 +1,2 @@
-# CodeClause_Internship_Project2
+# Brain Tumour Detection
 This project is related Brain Tumor Detection
